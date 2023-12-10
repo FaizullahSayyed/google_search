@@ -1,0 +1,33 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  text-align: center;
+}
+
+.search-result-container {
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 16px;
+}
+
+.google-logo {
+  width: 300px;
+  margin-bottom: 40px;
+}
+
+.search-container {
+  display: flex;
+}
+
+.search-bar {
+  width: 320px;
+  border: none;
+  outline: none;
+}
+
+.search-icon {
+  width: 25px;
+}
